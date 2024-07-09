@@ -1,0 +1,2 @@
+﻿6.obj : error LNK2005: ispalindrome이(가) 5.obj에 이미 정의되어 있습니다.
+C:\studyC\프로그래밍원리와실습\x64\Debug\HW-T8.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
